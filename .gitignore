@@ -10,6 +10,7 @@ tools/
 vhosts/
 *error/
 *logs/
+*log*
 
 # Files #
 #########
@@ -26,3 +27,4 @@ wampmanager.tpl
 *.err
 *.log
 *.exe
+*.pid
