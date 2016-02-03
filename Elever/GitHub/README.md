@@ -18,7 +18,7 @@ Fredrik Ulfwi                -NULL
 
 Hubert Kobialka              -NULL
 
-Hugo Tranchell               -NULL
+Hugo Tranchell               -[bajsskalman] (https://github.com/bajsskalman)
 
 Jacob Vahlén                 -[jv98](http://github.com/jv98)
 
